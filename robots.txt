@@ -1,0 +1,1 @@
+# please do not scrape this site aggressively. Source code is available at https://github.com/Rabenherz112/awesome-sysadmin-html. Raw data is available at https://github.com/Rabenherz112/awesome-sysadmin-data
